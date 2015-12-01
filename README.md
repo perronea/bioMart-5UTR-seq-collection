@@ -1,0 +1,1 @@
+This script searches through all the species in the ensembl database for 5'UTR sequences and a 5000bp long upstream region and writes the sequences in fasta format to seperate files in the working directory.
